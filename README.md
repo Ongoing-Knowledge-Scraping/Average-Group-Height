@@ -3,7 +3,7 @@ Takes list of numbers separated by space, makes the strings  integers. List is t
 
 ## Average Group Height ##
 
-![Avg Group Height](<https://github.com/Ongoing-Knowledge-Scraping/Rock-Paper-Scissors/blob/main/Rock%20Paper%20Scissors.gif> "Running the code")
+![Avg Group Height](<https://github.com/Ongoing-Knowledge-Scraping/Average-Group-Height/blob/main/Average%20Group%20Height.gif> "Running the code")
 
 ## View on Replit ##
 
